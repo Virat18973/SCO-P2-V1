@@ -39,7 +39,7 @@ st.markdown("""
 }
 html,body,[class*="css"]{font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;}
 .stApp{background:var(--bg);color:var(--text);}
-.block-container{padding-top:1.15rem;padding-bottom:2rem;max-width:1500px;}
+.block-container{padding-top:4.15rem;padding-bottom:2rem;max-width:1500px;}
 [data-testid="stSidebar"]{background:#08131a;border-right:1px solid #1d3540;}
 .panel{
  background:linear-gradient(180deg,#10232c,#0b171e);
